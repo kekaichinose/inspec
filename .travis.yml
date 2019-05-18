@@ -9,6 +9,7 @@ cache:
     - /home/travis/.rvm
 dist: xenial
 os:
+  - linux
   - osx
 services:
 - docker
