@@ -1,7 +1,3 @@
-branches:
-  only:
-    - master
-    - 3-stable
 language: ruby
 cache:
   bundler: true
