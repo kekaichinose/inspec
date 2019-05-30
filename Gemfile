@@ -36,7 +36,6 @@ group :test do
 end
 
 group :integration do
-  gem 'berkshelf'
   gem 'test-kitchen'
   gem 'kitchen-vagrant'
   gem 'kitchen-inspec'
